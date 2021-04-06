@@ -3,10 +3,10 @@
    "type": "library",
    "description": "Mini MVC framework for testing HTTP-speaking libraries",
    "keywords": ["mvc"],
+   "license": "MIT",
    "authors": [
       {
-         "name": "fabs aka (nourdine)",
-         "email": "admin@nourdine.net"
+         "name": "fabs aka (nourdine)"         
       }
    ],
    "require": {
